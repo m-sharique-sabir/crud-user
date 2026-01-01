@@ -41,10 +41,10 @@ const DeveloperBanner = () => {
               <div className="flex items-center space-x-3 text-white">
                 <EnvelopeIcon className="h-5 w-5 text-indigo-200" />
                 <a 
-                  href="mailto:mohammadsharique2409959@gmail.com"
+                  href="mailto:mohammadsharique2409950@gmail.com"
                   className="text-sm hover:text-indigo-200 transition-colors"
                 >
-                  mohammadsharique2409959@gmail.com
+                  mohammadsharique2409950@gmail.com
                 </a>
               </div>
               
@@ -64,7 +64,7 @@ const DeveloperBanner = () => {
             <div className="mt-6">
               <div className="flex space-x-3">
                 <a
-                  href="mailto:mohammadsharique2409959@gmail.com"
+                  href="mailto:mohammadsharique2409950@gmail.com"
                   className="inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md text-indigo-700 bg-white hover:bg-indigo-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-white transition-colors"
                 >
                   <EnvelopeIcon className="h-4 w-4 mr-2" />

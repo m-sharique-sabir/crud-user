@@ -12,29 +12,34 @@ A modern user management application built with React and Vite, featuring Create
 - **Responsive Design**: Works on desktop, tablet, and mobile devices
 - **Dark/Light Theme**: Toggle between light and dark modes
 - **Image Upload**: Upload and display user profile pictures
+- **User Details View**: Detailed view for each user
+- **Form Validation**: Client-side validation for user inputs
+- **Error Handling**: Proper error handling and user feedback
 
 ## 🛠️ Technologies Used
 
-- React 18
-- Vite (build tool)
-- Tailwind CSS (styling)
+- React 19
+- Vite 7.2.4 (build tool)
+- Tailwind CSS 4.1.18 (styling)
 - JavaScript (ES6+)
 - Local Storage API
+- React Router DOM
+- Heroicons (for UI icons)
 
 ## 📋 Prerequisites
 
 Before you begin, ensure you have the following installed on your system:
 
-- Node.js (version 16 or higher)
-- npm or yarn package manager
+- Node.js (version 18 or higher)
+- npm package manager (comes with Node.js)
 
 ## 📦 Installation
 
 Follow these steps to set up the project locally:
 
-1. **Clone the repository** (after it's pushed to GitHub):
+1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/crud-user.git
+   git clone https://github.com/m-sharique-sabir/crud-user.git
    ```
 
 2. **Navigate to the project directory**:
@@ -46,18 +51,10 @@ Follow these steps to set up the project locally:
    ```bash
    npm install
    ```
-   or if using yarn:
-   ```bash
-   yarn install
-   ```
 
 4. **Start the development server**:
    ```bash
    npm run dev
-   ```
-   or if using yarn:
-   ```bash
-   yarn dev
    ```
 
 5. **Open your browser** and visit the URL shown in the terminal (usually http://localhost:5173)
@@ -148,8 +145,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Developer Information
 
-**Developer Name:** Mohammad Sharique  
+**Developer Name:** Mohammad Sharique Sabir  
 **Developer Email:** mohammadsharique2409950@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/m-sharique-sabir/  
 **Developer WhatsApp:** +92 339 2409950
 
 ## 🙏 Acknowledgements
