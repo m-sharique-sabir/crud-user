@@ -32,15 +32,14 @@ Before you begin, ensure you have the following installed on your system:
 
 Follow these steps to set up the project locally:
 
-1. **Clone the repository**:
+1. **Clone the repository** (after it's pushed to GitHub):
    ```bash
-   git clone https://github.com/YOUR_USERNAME/crud-user-management.git
-   cd crud-user-management
+   git clone https://github.com/your-username/crud-user.git
    ```
 
 2. **Navigate to the project directory**:
    ```bash
-   cd crud-user-management
+   cd crud-user
    ```
 
 3. **Install dependencies**:
@@ -151,8 +150,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Developer Name:** Mohammad Sharique  
 **Developer Email:** mohammadsharique2409950@gmail.com  
-**Developer WhatsApp:** +92 339 2409950  
-**LinkedIn:** https://www.linkedin.com/in/m-sharique-sabir/
+**Developer WhatsApp:** +92 339 2409950
 
 ## 🙏 Acknowledgements
 
